@@ -97,4 +97,29 @@
               - Close body tag.
               - Close HTML tag.
 
+<h2>style.css</h2>
+&#10148; Step-1:
+    &#x2022; Import the URL of Amazon Ember font family.
+    &#x2022; Add margin and padding is zero for full home page.
+
+&#10148; Step-2:
+    &#x2022; <b>Header:-</b>
+       (1) <b>Navbar:</b>
+              - Add body colour.
+              - Edit height, width, Background color, color With display flex align items
+                center and justify content space evenly.
+              - Add Amazon logo as a background image and adjust their height and width.
+              - Add common border for all the functions of the navbar and navigation panel
+                of 2px solid transparent.
+              - Add border in index.html navbar and navigation panel with all the functions and options.
+              - Add hover effect of 2px solid white on border.
+              - Write the code to edit nav-address.
+              - Write to start the code of nav-search.
+              - Edit the height and width of nav-search.
+              - Edit the nav-select option.
+              - Edit input search option.
+              - Edit the code of search icon.
+              - Add hover and focus effect to nav-search of 3px solid #fa930c.
+              - Write the code for edit sign in, account list, Return, Cart option with there icon.
+              - Complete to edit the code of navbar. 
 </pre>
