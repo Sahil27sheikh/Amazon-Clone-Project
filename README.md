@@ -4,7 +4,9 @@
 &#10148; Step-1:
     &#x2022; Set the name of the project as "Amazon" and link the font awesome stylesheet
      for the icon in project. 
-    &#x2022; Set the icon of the website by adding stylesheet. 
+    &#x2022; Set the icon of the website by adding stylesheet.
+
+&#10148; Step-2: 
     &#x2022; <b>Header:-</b>
        (1) <b>Navbar:</b>
               - Creat the main div of navbar.
@@ -33,6 +35,7 @@
               - Close the main div of panel.
               - Close the header or end the header.
     
+&#10148; Step-3:
     &#x2022; <b>main:-</b>
               - Add div using class hero-section.
               - In the class hero section add new div of the class name hero-message. 
@@ -56,6 +59,7 @@
               - Close all divs.
               - Close the main tag.
     
+&#10148; Step-4:
     &#x2022; <b>Footer:-</b>
               - Create new footer tag.
               - Write the code of the panel one with the paragraph tag using new div of the
