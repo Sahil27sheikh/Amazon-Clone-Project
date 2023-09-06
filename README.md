@@ -27,6 +27,9 @@
 
        (2) Panel:
               - Creat the main div of panel. 
-              - 
+              - Add "All" and all icon.
+              - Add six panel otpitons using ancher tag.
+              - Add shop and deals optioon.
               - Close the main div of panel.
+              - Close the header or end the header.
 </pre>
