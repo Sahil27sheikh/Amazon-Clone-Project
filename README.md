@@ -122,4 +122,35 @@
               - Add hover and focus effect to nav-search of 3px solid #fa930c.
               - Write the code for edit sign in, account list, Return, Cart option with there icon.
               - Complete to edit the code of navbar. 
+            
+          (2) <b>Panel:</b>
+              - Edit it and adjust the position of all options and add the border effect like a navbar.
+
+&#10148; Step-3:
+    &#x2022; <b>Main:-</b>
+              - Divide the main section into three sections. First is hero section second is shop section and
+                third is product section.
+              - Is in the hero section, we can add the big background image and hero message.
+              - is in the shop section we can add the boxes with flex wrap property.
+              - The boxes contain heading image and shop more section.
+              - The product section contain the scroll bar of more than 9 images.
+              - Repeat the shop section with 4 boxes with different background image.
+              - Repeat product section.
+              <b>Note:</b> The main section is fully negative coding section means which is repeat the code
+                after and after. In the main section, so many effects are used.
+
+&#10148; Step-4:
+    &#x2022; <b>Footer:-</b>
+              - Footer is divided into four panels.
+              - First panel contain back to top option, With alignment center.
+              - Footer panel 2 contain the lists of four copyrights section withe alignment center
+                and the list option contain has place at left side of the main lists.
+              - Footer panel 3 contain Amazon logo with alignment centre.
+              - Footer panel 4 contain paragraph of copyright section with alignment center.
+<h2>Media Querry</h2>
+&#x2022; Media query is divided in so many screen size. After adding the media queries, the Amazon clone project is smoothly run in minimum 200 pixel to in the maximum 1600 pixel.<hr>
+
+<b><h4>Note: As a beginner it was a great achievement for me because of this Amazon clone home page project is create only using HTML and CSS with the great help of CSS Styling and Media Queries.</h4></b>
+
+ 
 </pre>
