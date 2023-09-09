@@ -16,9 +16,11 @@
                 of the project.
               - Creat a class of name nav-search for add the select optoin for select catagory
                 of search, search input and the last search icon.
-              - Write the code of select option for select the options of catagorys of search.
+              - Write the code of select option for select the options of catagorys of
+                search.
               - add minimum 11 options in select menu and close the select code.
-              - Write the code for search input in navigation panel and add placeholder in input as
+              - Write the code for search input in navigation panel and add placeholder
+                in input as
                 "Search Amazon".
               - add the search icon and close the nav-search class div.
               - Write the code of sign in option and list account and lis option.
@@ -44,7 +46,8 @@
               - Creat a new div using class name shop-section.
               - Write the code of the boxe of the shop sections using one heading,
                 background image and paragraph tag of the name "See more".
-              - Crat other seven boxes like this using different background images and headings.
+              - Crat other seven boxes like this using different background images and
+                headings.
               - Start to writh the scroll bar code.
               - Add new div using the class name product-scroll-bar.
               - Add another new div of the name home-product.
@@ -111,7 +114,8 @@
               - Add Amazon logo as a background image and adjust their height and width.
               - Add common border for all the functions of the navbar and navigation panel
                 of 2px solid transparent.
-              - Add border in index.html navbar and navigation panel with all the functions and options.
+              - Add border in index.html navbar and navigation panel with all the functions
+                and options.
               - Add hover effect of 2px solid white on border.
               - Write the code to edit nav-address.
               - Write to start the code of nav-search.
@@ -120,15 +124,18 @@
               - Edit input search option.
               - Edit the code of search icon.
               - Add hover and focus effect to nav-search of 3px solid #fa930c.
-              - Write the code for edit sign in, account list, Return, Cart option with there icon.
+              - Write the code for edit sign in, account list, Return, Cart option with there
+                icon.
               - Complete to edit the code of navbar. 
             
           (2) <b>Panel:</b>
-              - Edit it and adjust the position of all options and add the border effect like a navbar.
+              - Edit it and adjust the position of all options and add the border effect like
+                a navbar.
 
 &#10148; Step-3:
     &#x2022; <b>Main:-</b>
-              - Divide the main section into three sections. First is hero section second is shop section and
+              - Divide the main section into three sections. First is hero section second is
+                shop section and
                 third is product section.
               - Is in the hero section, we can add the big background image and hero message.
               - is in the shop section we can add the boxes with flex wrap property.
@@ -136,7 +143,8 @@
               - The product section contain the scroll bar of more than 9 images.
               - Repeat the shop section with 4 boxes with different background image.
               - Repeat product section.
-              <b>Note:</b> The main section is fully negative coding section means which is repeat the code
+              <b>Note:</b> The main section is fully negative coding section means which is
+                repeat the code
                 after and after. In the main section, so many effects are used.
 
 &#10148; Step-4:
@@ -148,9 +156,12 @@
               - Footer panel 3 contain Amazon logo with alignment centre.
               - Footer panel 4 contain paragraph of copyright section with alignment center.
 <h2>Media Querry</h2>
-&#x2022; Media query is divided in so many screen size. After adding the media queries, the Amazon clone project is smoothly run in minimum 200 pixel to in the maximum 1600 pixel.<hr>
+&#x2022; Media query is divided in so many screen size. After adding the media queries,
+the Amazon clone project is smoothly run in minimum 200 pixel to in the maximum 1600 pixel.<hr>
 
-<b><h4>Note: As a beginner it was a great achievement for me because of this Amazon clone home page project is create only using HTML and CSS with the great help of CSS Styling and Media Queries.</h4></b>
+<b><h4>Note: As a beginner it was a great achievement for me because of this Amazon
+clone home page project is create only using HTML and CSS with the great help of CSS
+Styling and Media Queries.</h4></b>
 
  
 </pre>
