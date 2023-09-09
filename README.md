@@ -160,9 +160,9 @@
 &#x2022; Media query is divided in so many screen size. After adding the media queries,
 the Amazon clone project is smoothly run in minimum 200 pixel to in the maximum 1600 pixel.<hr>
 
-<b><h2>Note: As a beginner it was a great achievement for me because of this Amazon
-clone home page project is create only using HTML and CSS with the great help of CSS
-Styling and Media Queries.</h2></b>
+<b><h2>Note: As a beginner it was a great achievement for me because of
+this Amazon clone home page project is create only using HTML and CSS with
+the great suppoort of CSS Styling and Media Queries.</h2></b>
 
  
 </pre>
