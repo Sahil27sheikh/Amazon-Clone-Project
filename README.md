@@ -163,7 +163,7 @@ the Amazon clone project is smoothly run in minimum 200 pixel to in the maximum 
 <b><h2>Note: As a beginner it was a great achievement for me because
 of this Amazon clone home page project is create only using HTML
 and CSS with the great suppoort of CSS Styling and
-Media Queries.</h2>sahil</b>
+Media Queries.</h2></b>
 
  
 </pre>
