@@ -84,7 +84,7 @@ h2{
 
 .home-product a { 
    font-size: 0.85rem;
-}
+} 
 
    
 }
@@ -205,6 +205,96 @@ h2{
 
 .home-product a { 
    font-size: 0.85rem;
+}
+
+/* footer */
+/* footer panel 1 */
+
+.footer-panel1{
+   background-color: #37475a;
+   color: white;
+   font-size: 0.85rem;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 35px;
+   margin-top: 15vh;
+}
+.footer-panel1:hover{
+   background-color: #434d5a;
+}
+
+/* Footer panel2 */
+
+.footer-panel2{
+   height: 30vh;
+   background-color: #222f3d;
+   color: white;
+   display: flex;
+   justify-content: space-evenly;
+
+}
+
+ul{
+   margin-top: 20px;
+   font-size: 15px;
+}
+
+ul a{
+   text-decoration: none;
+   display: block;
+   font-size: 0.75rem;
+   margin-top: 5px;
+   color: #dddddd;
+}
+ul a:hover{
+   text-decoration: underline; 
+}
+
+/* Footer panel 3 */
+
+.footer-panel3{
+   background-color: #222f3d;
+   border-top: 0.1px solid white;
+   color: white;
+   height: 50px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.logo2{
+   background-image: url("Images/amazon_logo.png");
+   background-size: cover;
+   height: 38px; 
+   width: 95px;
+}
+
+.footer-panel4{
+   background-color: #131a22;
+   height: 7vh;
+   text-align: center;
+   font-size: 0.80rem;
+   color: #ddd;
+} 
+
+.pages{ 
+   padding-top: 8px;
+}
+
+.footer-panel4 a{
+   text-decoration: none;
+   color: #ddd; 
+   font-size: 0.75rem;
+   padding-inline: 5px;
+}
+
+.footer-panel4 a:hover{
+   text-decoration: underline; 
+}
+
+.copyrights{ 
+   padding-top: 5px;
 }
 
 
@@ -376,6 +466,96 @@ font-size: 13px;
 
 .home-product a { 
    font-size: 0.85rem;
+}
+
+/* footer */
+/* footer panel 1 */
+
+.footer-panel1{
+   background-color: #37475a;
+   color: white;
+   font-size: 0.85rem;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 35px;
+   margin-top: 20vh;
+}
+.footer-panel1:hover{
+   background-color: #434d5a;
+}
+
+/* Footer panel2 */
+
+.footer-panel2{
+   height: 30vh;
+   background-color: #222f3d;
+   color: white;
+   display: flex;
+   justify-content: space-evenly;
+
+}
+
+ul{
+   margin-top: 20px;
+   font-size: 15px;
+}
+
+ul a{
+   text-decoration: none;
+   display: block;
+   font-size: 0.75rem;
+   margin-top: 5px;
+   color: #dddddd;
+}
+ul a:hover{
+   text-decoration: underline; 
+}
+
+/* Footer panel 3 */
+
+.footer-panel3{
+   background-color: #222f3d;
+   border-top: 0.1px solid white;
+   color: white;
+   height: 50px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.logo2{
+   background-image: url("Images/amazon_logo.png");
+   background-size: cover;
+   height: 38px; 
+   width: 95px;
+}
+
+.footer-panel4{
+   background-color: #131a22;
+   height: 7vh;
+   text-align: center;
+   font-size: 0.80rem;
+   color: #ddd;
+} 
+
+.pages{ 
+   padding-top: 8px;
+}
+
+.footer-panel4 a{
+   text-decoration: none;
+   color: #ddd; 
+   font-size: 0.75rem;
+   padding-inline: 5px;
+}
+
+.footer-panel4 a:hover{
+   text-decoration: underline; 
+}
+
+.copyrights{ 
+   padding-top: 5px;
 }
 
 }
@@ -590,7 +770,101 @@ font-size: 13px;
    }
 
 .home-product a { 
-   font-size: 0.80rem;
+   font-size: 0.80rem; 
+}
+
+/* footer */
+/* footer panel 1 */
+
+.footer-panel1{
+   background-color: #37475a;
+   color: white;
+   font-size: 0.75rem;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 25px;
+   margin-top: 15vh;
+}
+.footer-panel1:hover{
+   background-color: #434d5a;
+}
+
+/* Footer panel2 */
+
+.footer-panel2{
+   height: 26vh;
+   background-color: #222f3d;
+   color: white;
+   display: flex;
+   justify-content: space-evenly;
+
+}
+
+ul{
+   margin-top: 8px; 
+}
+
+.footer-panel2 ul p {
+   font-size: 13px;
+   font-weight: 700;
+}
+
+ul a{
+   text-decoration: none;
+   display: block;
+   font-size: 0.70rem;
+   margin-top: 4px;
+   color: #dddddd;
+}
+ul a:hover{
+   text-decoration: underline; 
+}
+
+/* Footer panel 3 */
+
+.footer-panel3{
+   background-color: #222f3d;
+   border-top: 0.1px solid white;
+   color: white;
+   height: 37px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.logo2{
+   background-image: url("Images/amazon_logo.png");
+   background-size: cover;
+   height: 38px; 
+   width: 75px;
+}
+
+.footer-panel4{
+   background-color: #131a22;
+   height: 5vh;
+   text-align: center;
+   font-size: 0.70rem;
+   color: #ddd;
+} 
+
+.pages{ 
+   padding-top: 3px;
+}
+
+.footer-panel4 a{
+   text-decoration: none;
+   color: #ddd; 
+   font-size: 0.70rem;
+   padding-inline: 5px;
+}
+
+.footer-panel4 a:hover{
+   text-decoration: underline; 
+}
+
+.copyrights{ 
+   padding-top: 4px;
 }
 }
 
@@ -833,6 +1107,101 @@ font-size: 10px;
 .item{
    height: 110px;
    margin: 0.5rem 1rem;
+}
+
+/* footer */
+/* footer panel 1 */
+
+.footer-panel1{
+   background-color: #37475a;
+   color: white;
+   font-size: 0.75rem;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 25px;
+   margin-top: 30vh;
+}
+.footer-panel1:hover{
+   background-color: #434d5a;
+}
+
+/* Footer panel2 */
+
+.footer-panel2{
+   height: 21vh;
+   background-color: #222f3d;
+   color: white;
+   display: flex;
+   justify-content: space-evenly;
+
+}
+
+ul{
+   margin-top: 8px; 
+}
+
+.footer-panel2 ul p {
+   font-size: 10px;
+   font-weight: 700;
+}
+
+ul a{
+   text-decoration: none;
+   display: block;
+   font-size: 0.55rem;
+   margin-top: 4px;
+   color: #dddddd;
+}
+ul a:hover{
+   text-decoration: underline; 
+}
+
+/* Footer panel 3 */
+
+.footer-panel3{
+   background-color: #222f3d;
+   border-top: 0.1px solid white;
+   color: white;
+   height: 25px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.logo2{
+   background-image: url("Images/amazon_logo.png");
+   background-size: cover;
+   height: 35px; 
+   width: 65px;
+}
+
+.footer-panel4{
+   background-color: #131a22;
+   height: 5vh;
+   text-align: center;
+   font-size: 0.60rem;
+   color: #ddd;
+} 
+
+.pages{ 
+   padding-top: 3px;
+   
+}
+
+.footer-panel4 a{
+   text-decoration: none;
+   color: #ddd; 
+   font-size: 0.60rem;
+   padding-inline: 2px;
+}
+
+.footer-panel4 a:hover{
+   text-decoration: underline; 
+}
+
+.copyrights{ 
+   padding-top: 4px;
 }
 }
 
